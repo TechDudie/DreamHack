@@ -2,11 +2,10 @@
 # Lesson Name - Fluency: Integers
 # Date Created: Oct 8, 2022
 print('''
-DreamHack #1 - Revision #1
+DreamHack #1 - Revision #2
 Lesson Name - Fluency: Integers
 Date Created: Oct 8, 2022
 https://github.com/TechDudie/DreamHack
-Disclaimer: I wrote this in 15 minutes so bugs are expected.
 '''.strip())
 two = True
 mode = input("Sum of 2 or 3 numbers? ")
